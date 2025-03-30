@@ -1,0 +1,34 @@
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\Tiny College.exe.config
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\Tiny College.exe
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\Tiny College.pdb
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny College.csproj.AssemblyReference.cache
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny_College.Form1.resources
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny_College.Properties.Resources.resources
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny College.csproj.GenerateResource.cache
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny College.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny College.exe
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny College.pdb
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny_College.College_System.resources
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\MySql.Data.dll
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\System.Memory.dll
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\System.Buffers.dll
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\bin\Debug\MySql.Data.xml
+C:\Users\Ryzen 5\source\repos\Tiny College\Tiny College\obj\Debug\Tiny Col.6E693165.Up2Date
+E:\Tiny College\Tiny College\bin\Debug\Tiny College.exe.config
+E:\Tiny College\Tiny College\bin\Debug\Tiny College.exe
+E:\Tiny College\Tiny College\bin\Debug\Tiny College.pdb
+E:\Tiny College\Tiny College\bin\Debug\System.Memory.dll
+E:\Tiny College\Tiny College\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tiny College\Tiny College\bin\Debug\System.Numerics.Vectors.dll
+E:\Tiny College\Tiny College\bin\Debug\System.Buffers.dll
+E:\Tiny College\Tiny College\obj\Debug\Tiny College.csproj.AssemblyReference.cache
+E:\Tiny College\Tiny College\obj\Debug\Tiny_College.College_System.resources
+E:\Tiny College\Tiny College\obj\Debug\Tiny_College.Form1.resources
+E:\Tiny College\Tiny College\obj\Debug\Tiny_College.Properties.Resources.resources
+E:\Tiny College\Tiny College\obj\Debug\Tiny College.csproj.GenerateResource.cache
+E:\Tiny College\Tiny College\obj\Debug\Tiny College.csproj.CoreCompileInputs.cache
+E:\Tiny College\Tiny College\obj\Debug\Tiny Col.6E693165.Up2Date
+E:\Tiny College\Tiny College\obj\Debug\Tiny College.exe
+E:\Tiny College\Tiny College\obj\Debug\Tiny College.pdb
